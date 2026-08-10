@@ -5,6 +5,17 @@ This project features an interactive, end-to-end Business Intelligence dashboard
 
 ![Dashboard Preview](dashboard-preview.png)
 
+### 🔍 Dynamic Interactivity (Slicers in Action)
+The dashboard features cross-filtering capabilities. Here is how the KPIs and charts dynamically update when users interact with specific filters:
+
+*(Note: The following screenshots are just examples demonstrating the dashboard's interactivity. You can explore and filter by any available material, season, or category in the live `.pbix` file).*
+
+**1. Filtered by Material (Cotton):**
+![Cotton Material Performance](cotton-material-performance.png)
+
+**2. Filtered by Material (Faux Leather):**
+![Faux Leather Performance](faux-leather-performance.png)
+
 ##  Tech Stack & Skills
 * **Tool:** Power BI Desktop
 * **Data Processing:** Power Query (Data extraction, cleaning, text formatting, and handling null values)

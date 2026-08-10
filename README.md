@@ -3,6 +3,8 @@
 ##  Overview
 This project features an interactive, end-to-end Business Intelligence dashboard built with Power BI. It analyzes seasonal retail textile sales, extracting actionable business insights on profitability, seasonal demand, and material performance to drive data-informed decision-making.
 
+![Dashboard Preview](dashboard-preview.png)
+
 ##  Tech Stack & Skills
 * **Tool:** Power BI Desktop
 * **Data Processing:** Power Query (Data extraction, cleaning, text formatting, and handling null values)
